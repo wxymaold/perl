@@ -1,4 +1,4 @@
-perl
+Learning Perl
 ====
 
-perl
+Learning Perl Exercise
