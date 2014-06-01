@@ -5,5 +5,6 @@ chomp($a = <STDIN>);
 print "Input the Number B: ";
 chomp($b = <STDIN>);
 
-print "$a*$b\n";
+$c = $a * $b;
+print "$c\n";
 
