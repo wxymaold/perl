@@ -11,7 +11,7 @@ sub max
 
 foreach my $tmp (keys %ENV)
 {
-	my $x = length($key);
+	my $x = length($tmp);
 	$max = max($max, $x);
 }
 
